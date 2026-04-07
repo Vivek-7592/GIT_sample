@@ -1,4 +1,4 @@
-#write a code  to check give word is palindrome or not
+# write a code  to check give word is palindrome or not
 word = input('enter your input: ')
 if word == word[::-1]:
 	print ("The word", word, "is palindrome")
